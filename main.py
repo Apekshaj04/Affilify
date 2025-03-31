@@ -12,7 +12,8 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://Apeksha:Apeksha@cluster0.eat6d8r.mongodb.net/Products")
+# You have to add your mongo string in place of yourmongostring
+MONGO_URI = os.getenv("MONGO_URI", "yourmongostring")
 
 app = FastAPI()
 
