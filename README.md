@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d4365711-0ac2-4644-802f-0b89726bb4e6)# 🚀 Affilify – Blockchain-Powered AI Affiliate Marketing Platform
+# 🚀 Affilify – Blockchain-Powered AI Affiliate Marketing Platform
 
 ## 🔥 Project Overview
 Affilify is an innovative affiliate marketing platform that combines **AI-powered influencer-brand matching** with **blockchain-verified transactions** to create a transparent, fraud-proof, and efficient ecosystem.
