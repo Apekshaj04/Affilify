@@ -97,7 +97,7 @@ const User = () => {
       setSuccessMessage(countData.successMessage);
 
       console.log("Uploading data to Lighthouse...");
-      // Api Key of LIGhTHOUSE 
+      // Api Key of LIGHTHOUSE SDK...it expires in every 15 days
       const apiKey = "e5e3a7b8.e4224ba57388428684a0d3b391018c1e";  
 
       const affiliateData = JSON.stringify({
