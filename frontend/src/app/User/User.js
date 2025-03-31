@@ -97,7 +97,8 @@ const User = () => {
       setSuccessMessage(countData.successMessage);
 
       console.log("Uploading data to Lighthouse...");
-      const apiKey = "b08bf0e8.fc223d7999874dae973c3e43028d9a21"; 
+      // Api Key of LIGhTHOUSE 
+      const apiKey = "e5e3a7b8.e4224ba57388428684a0d3b391018c1e";  
 
       const affiliateData = JSON.stringify({
         affiliateLink: inputValue,
