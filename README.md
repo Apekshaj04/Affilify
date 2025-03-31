@@ -101,7 +101,7 @@ nodemon server.js
 
 ---
 
-## 🤖 AI Recommendation System (FastAPI)
+## 🤖 ML Recommendation System (FastAPI)
 
 ### 🔧 Installation
 Install required Python packages:
@@ -111,7 +111,7 @@ pip install fastapi uvicorn pandas numpy scikit-learn scipy motor python-dotenv 
 
 ### 🚀 Run the AI Service
 ```bash
-python main.py
+uvicorn main:app --reload --port 8000
 ```
 
 ---
